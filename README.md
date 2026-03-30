@@ -21,6 +21,6 @@ A GUI-based desktop application to manage student records using Python and Tkint
    python main.py
 
 ## 📷 Screenshot
-![App Screenshot](screenshot.png)
+![App Screenshot](c:\Users\USER\Pictures\screenshot1.png)
 ## 👨‍💻 Author
 Douna Kaptue Brayan Pascal 
