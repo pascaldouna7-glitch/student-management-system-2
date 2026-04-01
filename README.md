@@ -21,6 +21,6 @@ A GUI-based desktop application to manage student records using Python and Tkint
    python main.py
 
 ## 📷 Screenshot
-![App Screenshot](c:\Users\USER\Pictures\screenshot1.png)
+![App Screenshot](https://github.com/pascaldouna7-glitch/student-management-system-2/blob/cd9187ba7dbf53fd8385a80a46b39270327c4112/screenshot1.png)
 ## 👨‍💻 Author
 Douna Kaptue Brayan Pascal 
